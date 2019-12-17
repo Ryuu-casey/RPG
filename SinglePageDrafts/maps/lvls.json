@@ -1,0 +1,88 @@
+{
+  "levels": [
+    {
+      "lvldata": [
+        {
+          "playerstart": [32,32]
+        },
+        {
+          "tilemap": [
+            "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
+            "W                             W                  W",
+            "W        D                                       W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W              WWW                               W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
+          ]
+        },
+        {
+          "exitdoor" : [100,100]
+        }
+      ]
+    },
+    {
+      "lvldata": [
+        {
+          "playerstart": [64,64]
+        },
+        {
+          "tilemap": [
+            "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                     E          W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
+          ]
+        },
+        {
+          "exitdoor" : [200,200]
+        }
+      ]
+    }
+  ]
+}

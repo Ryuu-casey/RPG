@@ -1,0 +1,79 @@
+{
+  "Foyer" : {
+    "playerstart" : [32,32],
+    "doorways" : {
+      "doorone" : {
+        "loconmap" : [100,100],
+        "leadsto" : "Entryhall"
+      }
+    },
+    "tilemap" : [
+            "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W     WWW         WWW             WWW            W",
+            "W     W  WW       W  WW          WW WW           W",
+            "W     W   W       W   W         WW   WW          W",
+            "W     W  WW       W  WW         W                W",
+            "W     WWW         WWW           W  WWWWW         W",
+            "W     W W         W             WW   WWW         W",
+            "W     W  W        W              WW WW W         W",
+            "W     W   W       W               WWW            W",
+            "W                                                W",
+            "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
+          ]
+  },
+  "Entryhall" : {
+    "playerstart" : [1500, 32],
+    "doorways" : {
+      "doorone" : {
+        "loconmap" : [32,32],
+        "leadsto" : "Foyer"
+      }
+    },
+    "tilemap" : [
+            "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
+            "W                                               W",
+            "W                                               W",
+            "W  W        W  W  W           W  W  W     W     W",
+            "W  W  WWWWWWWWWW  W  WWWWWWW  W  W  W  WWWW     W",
+            "W  W     W        W  W  E  W  W  W     W  W     W",
+            "W  WWWWWWW  WWWWWWW  W  W  W  W  WWWWWWW  W     W",
+            "W  W        W  W     W  W        W     W  W     W",
+            "W  W  WWWWWWW  W  WWWWWWWWWWWWWWWW  W  W  W     W",
+            "W     E        W  W        W  W     W     W     W",
+            "WWWWWWWWWWWWWWWW  W  WWWW  W  W  W  WWWW  WWWW  W",
+            "W        W     W        W  W     W     W     W  W",
+            "W  WWWW  W  W  W  WWWWWWW  W  WWWWWWW  WWWWWWW  W",
+            "W  W  W     W  W  W        W     W     W        W",
+            "W  W  WWWWWWWWWW  W  WWWWWWW  WWWW  WWWW  WWWWWWW",
+            "W  W           W  W     W   E W     W     W     W",
+            "W  WWWWWWW  W  WWWWWWW  WWWW  W  W  W  WWWW  W  W",
+            "W           W  W     W     W  W  W  W        W  W",
+            "WWWWWWWWWWWWW  W  W  W  W  WWWW  W  WWWWWWWWWW  W",
+            "W       E   W     W  W  W  W     W           W  W",
+            "W  WWWW  WWWWWWWWWW  W  W  W  WWWWWWWWWWWWW  W  W",
+            "W  W  W     W     W  W  W  W  W              W  W",
+            "W  W  WWWW  W  W  W  WWWW  W  WWWWWWWWWWWWWWWW  W",
+            "W        W     W     W     W  W           W     W",
+            "WWWWWWW  WWWWWWWWWWWWW  WWWW  W  WWWWWWW  W  WWWW",
+            "W                       W              W        W",
+            "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
+    ]
+  }
+}

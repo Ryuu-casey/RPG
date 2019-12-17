@@ -1,0 +1,80 @@
+{
+  "Foyer" : {
+    "playerstart" : [32,32],
+    "doorways" : {
+      "doorone" : {
+        "loconmap" : [100,100],
+        "leadsto" : "Entryhall"
+      }
+    },
+    "tilemap" : [
+            "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                              WWWWW             W",
+            "W                              W                 W",
+            "W                              WWW               W",
+            "W                              W                 W",
+            "W                              W                 W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
+          ]
+  },
+  "Entryhall" : {
+    "playerstart" : [400,400],
+    "doorways" : {
+      "doorone" : {
+        "loconmap" : [32,32],
+        "leadsto" : "Foyer"
+      }
+    },
+    "tilemap" : [
+            "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                              WWWWW             W",
+            "W                              W                 W",
+            "W                              WWW               W",
+            "W                              W                 W",
+            "W                              WWWWW             W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "W                                                W",
+            "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
+          ]
+  }
+}
